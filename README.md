@@ -24,7 +24,7 @@ Currently on a 2-year journey to become an AI Engineer — building projects ste
 
 > ⚡ DSA grind • 🧠 problem solving • 🔥 staying consistent
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mr_aj?theme=dark&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/er_ajay_143?theme=dark&font=baloo&ext=heatmap)
 
 ### currently cooking... 🍳
 
