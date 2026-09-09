@@ -1,4 +1,4 @@
-# Hi, I'm Mr aj 👋
+# Hi, I'm Mr AJ 👋
 
 ## 🚀 About Me
 Aspiring AI Engineer | Learning Python, Machine Learning & Generative AI
