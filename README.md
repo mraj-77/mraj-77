@@ -19,3 +19,16 @@ Currently on a 2-year journey to become an AI Engineer — building projects ste
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mraj-77&theme=dark)
+
+## 🧩 leetcode.exe
+
+> ⚡ DSA grind • 🧠 problem solving • 🔥 staying consistent
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mr_aj?theme=dark&font=baloo&ext=heatmap)
+
+### currently cooking... 🍳
+
+- 🧩 solving problems
+- 📈 improving every day
+- 🐛 debugging my life & code
+- 🚀 one commit at a time
