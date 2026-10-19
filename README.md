@@ -10,11 +10,12 @@ I'm on a 2-year journey to become an **AI Engineer** — learning, building proj
 
 * 🐍 Completed **Python fundamentals** — OOP, File Handling, Exception Handling
 * 📐 Completed **Maths for AI** — Probability, Statistics, Vectors & Matrices, Calculus basics
-* 📊 Hands-on with **NumPy, Pandas & Matplotlib** for data analysis and visualization
-* 🤖 Currently learning **Machine Learning** (Supervised, Unsupervised, Regression, Classification)
+* 📊 Hands-on with **NumPy, Pandas, Matplotlib & Seaborn** — analysed real datasets (up to 185K rows)
+* 🤖 **Machine Learning:** Linear & Logistic Regression, KNN, Decision Tree, Random Forest, SVM, Naive Bayes, K-Means
+* 🧪 Learning model evaluation: train/test split, cross-validation, overfitting, Precision/Recall/F1, hyperparameter tuning
+* 🏗️ Built an end-to-end ML project (**House Price Predictor**) and now rebuilding projects with **scikit-learn Pipelines**
 * 🧩 Practicing **DSA in C++** alongside my AI roadmap
 * 🔧 Using **Git & GitHub** for version control
-* 💻 Building projects step by step
 
 ---
 
@@ -26,6 +27,8 @@ I'm on a 2-year journey to become an **AI Engineer** — learning, building proj
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -47,13 +50,16 @@ I'm on a 2-year journey to become an **AI Engineer** — learning, building proj
 
 | Project | Description | Concepts Used |
 |---|---|---|
-| [🧮 Calculator](https://github.com/mraj-77/calculator-python) | Console calculator with error handling | Functions, Loops, Exception Handling |
-| [📝 To-Do App](https://github.com/mraj-77/todo-app-python) | Add, view, update, delete tasks | Lists, Functions, Bounds Checking |
-| [🧠 Quiz Game](https://github.com/mraj-77/quiz-game-python) | Quiz with scoring system | List of Dictionaries, String Methods |
-| [💰 Expense Tracker](https://github.com/mraj-77/expense-tracker-python) | Track expenses with category-wise totals | Dictionaries, Functions, Grouping Logic |
+| [🏠 House Price Predictor](https://github.com/mraj-77/house-price-predictor) | California housing price prediction: EDA, model comparison with cross-validation, tuning (Random Forest R² ≈ 0.82). Improved version with Pipelines and Gradient Boosting | Pandas, Scikit-learn, Random Forest, Cross-Validation, Feature Importance |
+| [🛒 SuperMarket Sales Dashboard](https://github.com/mraj-77/supermarket-sales-dashboard) | Sales summary and multiple charts (product line, city, branch, payment method, rating vs sales) | Pandas, Matplotlib, Data Visualization |
+| [📈 Sales Data Analysis](https://github.com/mraj-77/sales-data-analysis) | Analysis of a 185K-row sales dataset: product-wise and city-wise sales, monthly trend | Pandas GroupBy, Matplotlib, Data Validation |
 | [📊 Student Marks Analysis](https://github.com/mraj-77/student-marks-analysis) | Analysis of student performance dataset | Pandas, Matplotlib, Data Visualization |
+| [💰 Expense Tracker](https://github.com/mraj-77/expense-tracker-python) | Track expenses with category-wise totals | Dictionaries, Functions, Grouping Logic |
+| [🧠 Quiz Game](https://github.com/mraj-77/quiz-game-python) | Quiz with scoring system | List of Dictionaries, String Methods |
+| [📝 To-Do App](https://github.com/mraj-77/todo-app-python) | Add, view, update, delete tasks | Lists, Functions, Bounds Checking |
+| [🧮 Calculator](https://github.com/mraj-77/calculator-python) | Console calculator with error handling | Functions, Loops, Exception Handling |
 
-🚧 **Coming soon:** Sales Data Analysis, House Price Predictor, Spam Classifier
+🚧 **Coming soon:** Spam Classifier (with Pipelines), Customer Churn Predictor, Recommendation System
 
 ---
 
@@ -75,7 +81,7 @@ I'm on a 2-year journey to become an **AI Engineer** — learning, building proj
 
 - [x] Phase 1 — Python + Git & GitHub
 - [x] Phase 2 — Maths + NumPy, Pandas, Matplotlib
-- [ ] Phase 3 — Machine Learning 🔄 *(in progress)*
+- [ ] Phase 3 — Machine Learning 🔄 *(algorithms done; projects: House Price ✅, Spam Classifier 🔄, Churn ⏳, Recommendation ⏳)*
 - [ ] Phase 4 — Deep Learning (PyTorch)
 - [ ] Phase 5 — Generative AI & LLMs
 - [ ] Phase 6 — AI Engineering & Deployment
@@ -85,9 +91,9 @@ I'm on a 2-year journey to become an **AI Engineer** — learning, building proj
 
 ## 🔥 Currently Cooking... 🍳
 
-* 🤖 Learning Machine Learning fundamentals
+* 🤖 Building a Spam Classifier using scikit-learn Pipelines
+* 🧪 Learning cross-validation, tuning and leakage-free preprocessing
 * 🧩 Solving DSA problems in C++
-* 📈 Improving every day
 * 🚀 One commit at a time
 
 ---
