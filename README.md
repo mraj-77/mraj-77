@@ -11,10 +11,11 @@ I'm on a 2-year journey to become an **AI Engineer** — learning, building proj
 * 🐍 Completed **Python fundamentals** — OOP, File Handling, Exception Handling
 * 📐 Completed **Maths for AI** — Probability, Statistics, Vectors & Matrices, Calculus basics
 * 📊 Hands-on with **NumPy, Pandas, Matplotlib & Seaborn** — analysed real datasets (up to 185K rows)
-* 🤖 **Machine Learning:** Linear & Logistic Regression, KNN, Decision Tree, Random Forest, SVM, Naive Bayes, K-Means
-* 🧪 Learning model evaluation: train/test split, cross-validation, overfitting, Precision/Recall/F1, hyperparameter tuning
-* 🏗️ Built an end-to-end ML project (**House Price Predictor**) and now rebuilding projects with **scikit-learn Pipelines**
-* 🧩 Practicing **DSA in C++** alongside my AI roadmap
+* 🤖 **Machine Learning:** Linear & Logistic Regression, KNN, Decision Tree, Random Forest, SVM, Naive Bayes, K-Means, PCA
+* 🧪 Model evaluation: train/test split, cross-validation, overfitting, Precision/Recall/F1, hyperparameter tuning
+* 🏗️ Built an end-to-end ML project (**House Price Predictor**) with leakage-free **scikit-learn Pipelines**
+* 🧠 Started **Deep Learning**: neurons, layers, activation functions
+* 🧩 **DSA:** 66 topic-wise Python notebooks (arrays to graphs) and LeetCode practice in C++
 * 🔧 Using **Git & GitHub** for version control
 
 ---
@@ -38,6 +39,7 @@ I'm on a 2-year journey to become an **AI Engineer** — learning, building proj
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge)
 
 **Next Up**
 
@@ -51,8 +53,9 @@ I'm on a 2-year journey to become an **AI Engineer** — learning, building proj
 | Project | Description | Concepts Used |
 |---|---|---|
 | [🏠 House Price Predictor](https://github.com/mraj-77/house-price-predictor) | California housing price prediction: EDA, model comparison with cross-validation, tuning (Random Forest R² ≈ 0.82). Improved version with Pipelines and Gradient Boosting | Pandas, Scikit-learn, Random Forest, Cross-Validation, Feature Importance |
+| [🧩 DSA in Python](https://github.com/mraj-77/dsa-python) | 66 notebooks across 14 topics: arrays, strings, linked lists, stacks, queues, sorting, hashing, trees, graph algorithms | Data Structures, Algorithms, Recursion, Problem-solving patterns |
 | [🛒 SuperMarket Sales Dashboard](https://github.com/mraj-77/supermarket-sales-dashboard) | Sales summary and multiple charts (product line, city, branch, payment method, rating vs sales) | Pandas, Matplotlib, Data Visualization |
-| [📈 Sales Data Analysis](https://github.com/mraj-77/sales-data-analysis) | Analysis of a 185K-row sales dataset: product-wise and city-wise sales, monthly trend | Pandas GroupBy, Matplotlib, Data Validation |
+| [📈 Sales Data Analysis](https://github.com/mraj-77/sales-data-analysis) | 185,950 orders and $34.5M revenue analysed: product-wise and city-wise sales, monthly trend | Pandas GroupBy, Matplotlib, Data Validation |
 | [📊 Student Marks Analysis](https://github.com/mraj-77/student-marks-analysis) | Analysis of student performance dataset | Pandas, Matplotlib, Data Visualization |
 | [💰 Expense Tracker](https://github.com/mraj-77/expense-tracker-python) | Track expenses with category-wise totals | Dictionaries, Functions, Grouping Logic |
 | [🧠 Quiz Game](https://github.com/mraj-77/quiz-game-python) | Quiz with scoring system | List of Dictionaries, String Methods |
@@ -81,8 +84,8 @@ I'm on a 2-year journey to become an **AI Engineer** — learning, building proj
 
 - [x] Phase 1 — Python + Git & GitHub
 - [x] Phase 2 — Maths + NumPy, Pandas, Matplotlib
-- [ ] Phase 3 — Machine Learning 🔄 *(algorithms done; projects: House Price ✅, Spam Classifier 🔄, Churn ⏳, Recommendation ⏳)*
-- [ ] Phase 4 — Deep Learning (PyTorch)
+- [ ] Phase 3 — Machine Learning 🔄 *(algorithms done; projects: House Price ✅, Spam Classifier ⏳, Churn ⏳, Recommendation ⏳)*
+- [ ] Phase 4 — Deep Learning 🔄 *(neural networks, activation functions; PyTorch next)*
 - [ ] Phase 5 — Generative AI & LLMs
 - [ ] Phase 6 — AI Engineering & Deployment
 - [ ] Phase 7 — Portfolio & Job Prep
@@ -91,9 +94,9 @@ I'm on a 2-year journey to become an **AI Engineer** — learning, building proj
 
 ## 🔥 Currently Cooking... 🍳
 
-* 🤖 Building a Spam Classifier using scikit-learn Pipelines
-* 🧪 Learning cross-validation, tuning and leakage-free preprocessing
-* 🧩 Solving DSA problems in C++
+* 🧠 Learning Deep Learning fundamentals: neural networks and activation functions
+* 🧩 Practising DSA: LeetCode in C++ and topic-wise notebooks in Python
+* 🔁 Planning next: Spam Classifier with Pipelines, then Customer Churn
 * 🚀 One commit at a time
 
 ---
